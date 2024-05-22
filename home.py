@@ -15,20 +15,20 @@ Este é um aplicativo desenvolvido com Streamlit para ajudar os Corretores de im
          
 Por aqui é possível fazer  uma previsão de preços de imóveis, criação de post de anúncio de imóvel em segundos, além de oferecer o chatbot Nelson para responder perguntas relacionadas ao mercado imobiliário.
 
-**Recursos do Chatbot Nelson:**
+**Recursos do Chatbot:**
 
 - 📄 Recebe documentos de vários formatos, como PDFs, DOCs, TXTs, etc.
 - 🖼️ Realiza OCR (Reconhecimento Óptico de Caracteres) para extrair texto de documentos não editáveis, como PDFs e imagens.
 - 💬 Responde perguntas e fornece informações sobre os documentos enviados.
-- 📝 Ajuda a redigir Contratos  variados.
-- 🔢 Ajuda a realaizar operações matemáticas.  
+- 📝 Ajuda a redigir Contratos variados.
+- 🔢 Ajuda a realaizar operações matemáticas.
          
 
 Use a barra lateral para navegar entre as diferentes funcionalidades:
 
 - **Previsão de Preços**: Faça uma previsão do preço de um imóvel com base em suas características.
-- **Chatbot Nelson**: Interaja com Nelson, o assistente virtual, para lhe auxiliar no que for preciso.
-- **Criar Post Instagram"**: Criação de post de anúncio de imóvel a partir de imagem, usando o Gemini.
+- **Chatbot**: Interaja com Nelson, o assistente virtual, para lhe auxiliar no que for preciso.
+- **Criar Post Instagram**: Criação de post de anúncio de imóvel a partir de imagem, usando o Gemini.
 
 Divirta-se explorando as funcionalidades do aplicativo! 🎉
 """)
