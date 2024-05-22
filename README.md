@@ -13,9 +13,6 @@
 - **Chatbot**: Interaja com o assistente virtual, para obter informações sobre o mercado imobiliário.
 - **Gere Post's para o Instagram**: Crie postagens para o instagram fazendo upload da imagem que deseja. 
 
-### Desenvolvimento do Chatbot
-O Chatbot foi desenvolvido com a plataforma [Stack AI](https://www.stack-ai.com), uma plataforma no-code para criar chatbots de forma fácil e eficiente.
-
 ## Configuração de ambiente
 
 ### Instalação e Execução local
@@ -27,9 +24,22 @@ O Chatbot foi desenvolvido com a plataforma [Stack AI](https://www.stack-ai.com)
 ### Execução remota
 1. Abrir o link da aplicação `https://appimovelprevision.streamlit.app/`
 
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas
+### Linguagem
 - Python 🐍
-- Streamlit 🚀
+### Frameworks
+- Flask - Framework leve para criar aplicações web.
+- Streamlit 🚀 - Framework para criar aplicações web interativas a partir de scripts Python.
+### Bibliotecas
+- joblib - Biblioteca para serialização de objetos Python e execução paralela.
+- pandas - : Biblioteca para manipulação e análise de dados.
+- plotly - Biblioteca para criação de gráficos interativos.
+- scikit-learn - Biblioteca para aprendizado de máquina.
+- Babel - Biblioteca para internacionalização e localização de aplicações.
+- Werkzeug - Biblioteca WSGI para desenvolvimento web.
+- google-generativeai - Biblioteca para acessar modelos de IA generativos do Google.
+### API
+- Stack AI - Plataforma no-code para criar chatbots de forma fácil e eficiente.
 
 ## Contribuições
 Contribuições são bem-vindas! Se você encontrar um bug ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
