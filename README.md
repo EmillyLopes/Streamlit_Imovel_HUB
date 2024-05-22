@@ -5,10 +5,11 @@ Imóvel HUB é um aplicativo desenvolvido com Streamlit para auxiliar corretores
 
 ## Funcionalidades
 - **Previsão de Preços**: Faça uma previsão do preço de um imóvel com base em suas características.
-- **Chatbot Nelson**: Interaja com Nelson, o assistente virtual, para obter informações sobre o mercado imobiliário.
-- 
-## Desenvolvimento do Chatbot Nelson
-O Chatbot Nelson foi desenvolvido com a plataforma [Stack AI](https://www.stack-ai.com), uma plataforma no-code para criar chatbots de forma fácil e eficiente.
+- **Chatbot**: Interaja com Nelson, o assistente virtual, para obter informações sobre o mercado imobiliário.
+- **Post's para o Instagram**: Crie postagens para o instagram fazendo upload da imagem que deseja. 
+
+## Desenvolvimento do Chatbot
+O Chatbot foi desenvolvido com a plataforma [Stack AI](https://www.stack-ai.com), uma plataforma no-code para criar chatbots de forma fácil e eficiente.
 
 ## Instalação e Execução
 1. Certifique-se de ter o Python instalado em seu sistema.

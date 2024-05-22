@@ -1,9 +1,6 @@
 import streamlit as st
 
-#st.sidebar.image("https://media-blog.genialinvestimentos.com.br/wp-content/uploads/2021/01/11141457/como-investir-em-fundos-imobiliarios.jpg", use_column_width=True)
-
 st.sidebar.title('Navegação')
-st.image("https://i2.wp.com/pmcaonline.org/wp-content/uploads/2021/05/Real-Estate-Industry.jpg", use_column_width=True)
     
 st.sidebar.page_link("pages/predict_page.py", label="Previsão de Preços", icon="💲")
 st.sidebar.page_link("pages/chatbot.py", label="Chatbot", icon="💬")

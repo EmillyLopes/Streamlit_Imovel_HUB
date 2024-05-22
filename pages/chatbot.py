@@ -14,7 +14,7 @@ page_bg_img = """
 #st.markdown(page_bg_img, unsafe_allow_html=True)
 
 def main():
-    st.title('Assistente Imobiliário Nelson')
+    st.title('Assistente Imobiliário')
     
     # Código HTML para incorporar o chatbot com largura e altura máximas
     chatbot_html = """

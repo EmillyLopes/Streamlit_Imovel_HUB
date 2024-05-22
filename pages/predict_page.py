@@ -23,8 +23,6 @@ def predict_price(Area, Beira_Mar, Valor_M, Closet, Qtde_Quartos, Qtde_Suites, W
 
 
 def main():
-    # Set the cover image
-    st.image("https://imageio.forbes.com/specials-images/imageserve/5f0c98c0147a4f0006753d4b/Houses-of-different-size-with-different-value-on-stacks-of-coins--Concept-of-/960x0.jpg?height=355&width=711&fit=bounds", use_column_width=True)
     
     # Application description
     st.title('Previsão de Preço de Imóveis')
@@ -34,7 +32,7 @@ def main():
     Insira os detalhes do imóvel no formulário na lateral para obter uma estimativa de preço.
     """)
 
-    with st.sidebar.form(key='predict_form'):
+    with st.form(key='predict_form'):
         Cidade_encoded = st.selectbox('Cidade', options=list(cidade_mapping.keys()), format_func=lambda x: x)
         Bairro_encoded = st.selectbox('Bairro', options=list(bairro_mapping.keys()), format_func=lambda x: x)
         Tipo_Imovel_encoded = st.selectbox('Tipo de Imóvel', options=list(tipo_imovel_mapping.keys()), format_func=lambda x: x)

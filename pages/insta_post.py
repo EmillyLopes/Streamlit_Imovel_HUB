@@ -40,7 +40,6 @@ def generate_instagram_post(image_path, user_input):
 
 
 def main():
-    st.image('https://images.tv9hindi.com/wp-content/uploads/2023/11/instagram-past-name.jpg', use_column_width=True)
     st.header("📸 Gerar Post para Instagram com o Gemini ✨")
     st.write("""
              Esta ferramenta permite gerar automaticamente posts para o Instagram de anúncios imobiliários. 
