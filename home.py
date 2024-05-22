@@ -13,7 +13,7 @@ st.divider()
 st.write("""
 Este é um aplicativo desenvolvido com Streamlit para ajudar os Corretores de imóveis.
          
-Por aqui é possível fazer  uma previsão de preços de imóveis, criação de post de anúncio de imóvel em segundos, além de oferecer o chatbot Nelson para responder perguntas relacionadas ao mercado imobiliário.
+Por aqui é possível fazer  uma previsão de preços de imóveis, criação de post de anúncio de imóvel em segundos, além de oferecer o chatbot para responder perguntas relacionadas ao mercado imobiliário.
 
 **Recursos do Chatbot:**
 
